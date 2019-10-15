@@ -7,7 +7,7 @@ def mean(x):
     5.0
     
     """
-    return sum(x)/len(x)
+    return sum(x)\/len(x)
 
 if __name__ == "__main__":
     import doctest
